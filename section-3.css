@@ -1,0 +1,19 @@
+.text_cont_s3{
+    margin-top: 128px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 48px;
+}
+
+.text_cont_s3 p{
+    font-size: 74px;
+    font-weight: 600;
+    line-height: 95%;
+}
+
+.reviews_cont{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 128px;
+}
